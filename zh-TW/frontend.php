@@ -48,8 +48,8 @@ return [
     'joinLinkInfo' => '此為私人房間. 發送給玩家以下網址以加入房間:',
 
     //Dynamic elements
-    'received' => '收到', //max 15
-    'finesse' => '靈巧',   //max 15
+    'received' => 'received', //max 15
+    'finesse' => 'finesse',   //max 15
 
     //List of rooms
     'roomName' => '房間名',
