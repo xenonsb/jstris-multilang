@@ -43,13 +43,13 @@ return [
     'noSpectators' => '現在沒有人在觀戰.',
     'replayAvailable' => '重播紀錄檔',
     'oldVer' => '你目前的版本過舊, 按F5重新整理網頁!',
-    'privateRoom' => 'This is your private room where you won\'t be disturbed while playing. Check the Lobby to see public rooms.',
+    'privateRoom' => '你正在你的私人房間. 要去公開遊戲的話, 回到遊戲大廳.' // 'This is your private room where you won\'t be disturbed while playing. Check the Lobby to see public rooms.',
     'restartInfo' =>  '以F4或自訂鍵來重新開始.',
     'joinLinkInfo' => '此為私人房間. 發送給玩家以下網址以加入房間:',
 
     //Dynamic elements
-    'received' => 'Received', //max 15
-    'finesse' => 'Finesse',   //max 15
+    'received' => '收到', //max 15
+    'finesse' => '靈巧',   //max 15
 
     //List of rooms
     'roomName' => '房間名',
